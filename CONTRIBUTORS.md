@@ -43,3 +43,5 @@
 [Shreya Shankar](https://github.com/shreya-jpg)
 
 [Suryansh Chopra](https://github.com/SuryanshChopra)
+
+[Sanam Kandar](https://github.com/sanamkandar)
